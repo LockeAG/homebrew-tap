@@ -1,7 +1,7 @@
 class Gha < Formula
   desc "GitHub Actions TUI dashboard. Never leave the terminal."
   homepage "https://github.com/LockeAG/gha"
-  version "0.1.1"
+  version "0.2.0"
   license "MIT"
 
   on_macos do
